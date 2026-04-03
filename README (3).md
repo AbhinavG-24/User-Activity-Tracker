@@ -26,11 +26,6 @@ In multi-user Unix systems, multiple users can be logged in simultaneously for v
 
 The **User Activity Tracker** is a console-based Unix tool that automates this process entirely. Written in **C** (for system-level access) and **Bash** (for automation), it reads live login records via the `utmpx` Unix API, cross-checks users against an authorized list, flags unauthorized logins with real-time alerts, and archives daily reports — all without any manual intervention.
 
-> **Course:** Unix Programming Lab (24B15CS214) — B.Tech III Semester  
-> **Institution:** Jaypee Institute of Information Technology, Noida  
-> **Submitted by:** Abhinav Garg (992401030078) & Samridhi (992401030076), Batch F-11  
-> **Supervisor:** Ms. Himika Verma, Department of CSE, JIIT Sector 128
-
 ---
 
 ## ✨ Key Features
@@ -216,4 +211,4 @@ unknown_user    pts/1           2025-03-15 09:45:10   ALERT!
 
 ---
 
-*Built with ❤️ · Unix Programming Lab (24B15CS214) · B.Tech CSE Semester III · JIIT Noida*
+*Built with ❤️ · Unix Programming 
